@@ -11,3 +11,8 @@ Visualize Summer Camp 15 participants response data.
 
 - Debating the use of bokeh v/s D3.js for visualization
 
+# PROJECTS
+
+## RainReign 
+Aims to visualise rainfall data obtained from data.gov.in
+[Look for RainReign directory]
